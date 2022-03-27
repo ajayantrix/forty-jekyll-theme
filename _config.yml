@@ -1,9 +1,9 @@
 # site settings
-title: Forty
+title: Ajay Ratnu
 subtitle: by HTML5 UP
 email: ajay.antrix@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/Test_Folio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 

@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: '15+ experience in Data Analytics, Visualization, Storytelling, Fraud Analytics <br />Statisticl Anaalytics and reporting across domains'
+description: '15+ experience in Data Analytics, Visualization, Storytelling, Fraud Analytics <br />Statistical Analytics and reporting across domains'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
